@@ -1,12 +1,14 @@
 graph representation and basic algorithms
-1) BFS
+1) adj list
 2) DFS
-3) Cycle detection in undirected graph using BFS
-4) Cycle detection in undirected graph using DFS
-5) Cycle detection in directed graph using BFS
-6) Cycle detection in directed graph using DFS
-7) Topological sort using DFS
-8) Topological sort using BFS
+3) BFS
+4) Cycle detection in undirected graph using BFS
+5) Cycle detection in undirected graph using DFS
+6) Topological sort using DFS
+7) Topological sort using BFS
+8) Cycle detection in directed graph using BFS
+9) Cycle detection in directed graph using DFS
+
 
 Shortest Path Algorithms
 1) Dijkstra’s Algorithm
