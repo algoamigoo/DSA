@@ -1,0 +1,30 @@
+graph representation and basic algorithms
+1) BFS
+2) DFS
+3) Cycle detection in undirected graph using BFS
+4) Cycle detection in undirected graph using DFS
+5) Cycle detection in directed graph using BFS
+6) Cycle detection in directed graph using DFS
+7) Topological sort using DFS
+8) Topological sort using BFS
+
+Shortest Path Algorithms
+1) Dijkstra’s Algorithm
+2) Bellman-Ford Algorithm
+3) Floyd-Warshall Algorithm
+
+Minimum Spanning Tree (MST)
+1) Kruskal’s Algorithm
+2) Prim’s Algorithm
+
+Strongly Connected Components (SCC)
+1) Kosaraju’s Algorithm
+2) Tarjan’s Algorithm
+
+Disjoint-set Union
+
+Maximum Flow:
+1) Ford-Fulkerson Algorithm
+2) Edmonds-Karp Algorithm (optimized using BFS)
+
+
